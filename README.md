@@ -1,11 +1,5 @@
 
-
-
-  <div>
-    <a href="#"><img src="contributions.svg" width=1500></a>
-  </div>
-
-
+![GitHub Readme Profile Banner copy](contributions.svg)
 <br>
 <br>
 
