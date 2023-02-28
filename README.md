@@ -1,7 +1,9 @@
 
-# Hi there 👋
 
-<a href=#><img src="contributions.svg"></a>
+
+  <div>
+    <a href="#"><img src="contributions.svg" width=1500></a>
+  </div>
 
 
 <br>
@@ -14,11 +16,9 @@
 <br>
 <p align="center">Let's work together! Send me a <a href="https://twitter.com/Bois_Leau" rel="noopener noreferrer" target="_blank">text!</a></p>
 
+<br>
 
-
-
-## What do I do ? 
-### Languages & Database:
+## Languages & Database:
 <p align="left">
 <a href="https://www.w3.org/python3/" target="_blank"> <img src="svg/language/python.svg" width=50 height=50 alt="html5" /> </a>
 <a href="https://www.w3schools.com/c/"><img src="svg/language/c.svg" width=50 height=50  alt="C" /> </a>
@@ -30,19 +30,25 @@
 <a href="https://www.w3schools.com/postgresql/"><img src="svg/database/postgresql.svg" width=50 height=50  alt="postgresql" /> </a>
 </p>
 
-### Cloud :
+<br>
+
+## Cloud :
 <p align="left">
 <a href="https://www.w3.org/mongodb/" target="_blank"> <img src="svg/cloud/amazon.svg" width=80 height=80 alt="AWS" /> </a>
 <a href="https://www.w3.org/mongodb/" target="_blank"> <img src="svg/cloud/ansible.svg" width=80 height=80 alt="Ansible" /> </a>
 <a href="https://www.w3.org/mongodb/" target="_blank"> <img src="svg/cloud/terraform.png" width=80 height=80 alt="terraform" /> </a>
 </p>
 
-### Tools:
+<br>
+
+
+## Tools:
 <a href="https://www.w3.org/git/" target="_blank"> <img src="svg/tools/git.svg" width=80 height=80 alt="git" /> </a>
 <a href="https://www.w3.org/intellij/" target="_blank"> <img src="svg/tools/intellij.svg" width=80 height=80 alt="intellij" /> </a>
 <a href="https://www.w3.org/npm/" target="_blank"> <img src="svg/tools/npm.svg" width=80 height=80 alt="npm" /> </a>
 <a href="https://www.w3.org/vscode/" target="_blank"> <img src="svg/tools/vscode.svg" width=80 height=80 alt="AWS" /> </a>
 
+<br>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
