@@ -14,7 +14,7 @@
 
 ## Languages & Database:
 <p align="left">
-<a href="https://www.w3.org/python3/" target="_blank"> <img src="svg/language/python.svg" width=50 height=50 alt="html5" /> </a>
+<a href="https://www.w3schools.com/python/" target="_blank"> <img src="svg/language/python.svg" width=50 height=50 alt="html5" /> </a>
 <a href="https://www.w3schools.com/c/"><img src="svg/language/c.svg" width=50 height=50  alt="C" /> </a>
 <a href="https://www.w3schools.com/typescript/" target="_blank"><img src="svg/language/typescript.svg" width=50 height=50 alt="typescript" /> </a>
 <a href="https://www.w3schools.com/javascript/" target="_blank"><img src="svg/language/javascript.svg" width=50 height=50 alt="javascript" /> </a>
@@ -28,19 +28,19 @@
 
 ## Cloud :
 <p align="left">
-<a href="https://www.w3.org/mongodb/" target="_blank"> <img src="svg/cloud/amazon.svg" width=80 height=80 alt="AWS" /> </a>
-<a href="https://www.w3.org/mongodb/" target="_blank"> <img src="svg/cloud/ansible.svg" width=80 height=80 alt="Ansible" /> </a>
-<a href="https://www.w3.org/mongodb/" target="_blank"> <img src="svg/cloud/terraform.png" width=80 height=80 alt="terraform" /> </a>
+<a href="https://aws.amazon.com/fr/" target="_blank"> <img src="svg/cloud/amazon.svg" width=80 height=80 alt="AWS" /> </a>
+<a href="https://www.ansible.com/" target="_blank"> <img src="svg/cloud/ansible.svg" width=80 height=80 alt="Ansible" /> </a>
+<a href="https://www.terraform.io/" target="_blank"> <img src="svg/cloud/terraform.png" width=80 height=80 alt="Terraform" /> </a>
 </p>
 
 <br>
 
 
 ## Tools:
-<a href="https://www.w3.org/git/" target="_blank"> <img src="svg/tools/git.svg" width=80 height=80 alt="git" /> </a>
-<a href="https://www.w3.org/intellij/" target="_blank"> <img src="svg/tools/intellij.svg" width=80 height=80 alt="intellij" /> </a>
-<a href="https://www.w3.org/npm/" target="_blank"> <img src="svg/tools/npm.svg" width=80 height=80 alt="npm" /> </a>
-<a href="https://www.w3.org/vscode/" target="_blank"> <img src="svg/tools/vscode.svg" width=80 height=80 alt="AWS" /> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="svg/tools/git.svg" width=80 height=80 alt="git" /> </a>
+<a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="svg/tools/intellij.svg" width=80 height=80 alt="intellij" /> </a>
+<a href="https://www.npmjs.com/" target="_blank"> <img src="svg/tools/npm.svg" width=80 height=80 alt="npm" /> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="svg/tools/vscode.svg" width=80 height=80 alt="AWS" /> </a>
 
 <br>
 
