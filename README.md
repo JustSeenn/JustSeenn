@@ -1,4 +1,3 @@
-
 ![GitHub Readme Profile Banner copy](contributions.svg)
 <br>
 <br>
@@ -13,6 +12,7 @@
 <br>
 
 ## Languages & Database:
+
 <p align="left">
 <a href="https://www.w3schools.com/python/" target="_blank"> <img src="svg/language/python.svg" width=50 height=50 alt="html5" /> </a>
 <a href="https://www.w3schools.com/c/"><img src="svg/language/c.svg" width=50 height=50  alt="C" /> </a>
@@ -27,20 +27,34 @@
 <br>
 
 ## Cloud :
+
 <p align="left">
-<a href="https://aws.amazon.com/fr/" target="_blank"> <img src="svg/cloud/amazon.svg" width=80 height=80 alt="AWS" /> </a>
-<a href="https://www.ansible.com/" target="_blank"> <img src="svg/cloud/ansible.svg" width=80 height=80 alt="Ansible" /> </a>
+<a href="https://cloud.google.com/?hl=en" target="_blank"> <img src="svg/cloud/gcp.svg" width=80 height=80 alt="GCP" /> </a>
 <a href="https://www.terraform.io/" target="_blank"> <img src="svg/cloud/terraform.png" width=80 height=80 alt="Terraform" /> </a>
 </p>
 
 <br>
 
+## DevOps :
+
+<p align="left">
+<a href="https://www.docker.com/" target="_blank"> <img src="svg/devops/docker.svg" width=80 height=80 alt="Docker" /> </a>
+<a href="https://www.argocd.com/" target="_blank"> <img src="svg/devops/argocd.svg" width=80 height=80 alt="ArgoCD" /> </a>
+<a href="https://www.kubernetes.com/" target="_blank"> <img src="svg/devops/k8s.svg" width=80 height=80 alt="Kubernetes" /> </a>
+<a href="https://www.prometheus.com/" target="_blank"> <img src="svg/devops/prom.svg" width=80 height=80 alt="Prometheus" /> </a>
+<a href="https://www.prometheus.com/" target="_blank"> <img src="svg/devops/grafana.svg" width=80 height=80 alt="Grafana" /> </a>
+
+</p>
+
+<br>
 
 ## Tools:
+
 <a href="https://git-scm.com/" target="_blank"> <img src="svg/tools/git.svg" width=80 height=80 alt="git" /> </a>
 <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="svg/tools/intellij.svg" width=80 height=80 alt="intellij" /> </a>
 <a href="https://www.npmjs.com/" target="_blank"> <img src="svg/tools/npm.svg" width=80 height=80 alt="npm" /> </a>
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="svg/tools/vscode.svg" width=80 height=80 alt="AWS" /> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="svg/tools/vscode.svg" width=80 height=80 alt="VS code" /> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="svg/tools/kafka.svg" width=80 height=80 alt="Apache Kafka" /> </a>
 
 <br>
 
@@ -59,5 +73,3 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=justseenn&show_icons=true&theme=graywhite">
 </p>
-
-
