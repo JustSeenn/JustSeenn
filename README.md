@@ -29,7 +29,7 @@
 ## Cloud :
 
 <p align="left">
-<a href="https://cloud.google.com/?hl=en" target="_blank"> <img src="svg/cloud/gcp.svg" width=80 height=80 alt="GCP" /> </a>
+<a href="https://cloud.google.com/?hl=en" target="_blank"> <img src="svg/cloud/gcp.svg" width=100 height=80 alt="GCP" /> </a>
 <a href="https://www.terraform.io/" target="_blank"> <img src="svg/cloud/terraform.png" width=80 height=80 alt="Terraform" /> </a>
 </p>
 
@@ -54,7 +54,7 @@
 <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="svg/tools/intellij.svg" width=80 height=80 alt="intellij" /> </a>
 <a href="https://www.npmjs.com/" target="_blank"> <img src="svg/tools/npm.svg" width=80 height=80 alt="npm" /> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="svg/tools/vscode.svg" width=80 height=80 alt="VS code" /> </a>
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="svg/tools/kafka.svg" width=80 height=80 alt="Apache Kafka" /> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="svg/tools/kafka.svg" width=100 height=80 alt="Apache Kafka" /> </a>
 
 <br>
 
